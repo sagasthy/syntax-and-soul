@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Table
+    order:
+      - file.basename
+      - file.folder
+      - file.path
+      - file.tags
+      - file.size
+      - file.ctime
+      - file.mtime
+    sort:
+      - property: file.basename
+        direction: ASC

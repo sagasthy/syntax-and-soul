@@ -11,14 +11,13 @@
             "id": "f6a5ff7e07680ecd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Work/Copilot Coaching Guides/Copilot Snippets.md",
-                "mode": "source",
-                "source": false
+                "file": "Notes.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Copilot Snippets"
+              "icon": "lucide-table",
+              "title": "Notes"
             }
           }
         ]
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Copilot Coaching Guides/Copilot Snippets.md",
+                "file": "Notes.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Copilot Snippets"
+              "title": "Backlinks for Notes"
             }
           },
           {
@@ -113,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Copilot Coaching Guides/Copilot Snippets.md",
+                "file": "Notes.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Copilot Snippets"
+              "title": "Outgoing links from Notes"
             }
           },
           {
@@ -142,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Copilot Coaching Guides/Copilot Snippets.md",
+                "file": "Notes.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Copilot Snippets"
+              "title": "Outline of Notes"
             }
           }
         ]
@@ -172,9 +171,10 @@
   },
   "active": "f6a5ff7e07680ecd",
   "lastOpenFiles": [
-    "Untitled.base",
-    "Obsidian PAT.md",
     "Copilot Notes.md",
-    "Work/Copilot Coaching Guides/Copilot Snippets.md"
+    "Notes.base",
+    "Untitled.md",
+    "Work/Copilot Coaching Guides/Copilot Snippets.md",
+    "Obsidian PAT.md"
   ]
 }
