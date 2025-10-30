@@ -1,0 +1,2 @@
+- Example to copy all the files created by a user Amy to a specific directory. **mkdir /root/amy; find / -user amy -exec cp {} /root/amy \;**
+- Example to list all occurrences of a string based on the find commands output. xargs is similar to exec in this case.**find /etc -name '*' -type f | xargs grep "127.0.0.1"**
