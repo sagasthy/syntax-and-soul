@@ -18,33 +18,37 @@
 **Focus Step in SDLC**: Development
 
 **Blockers Engineer runs in during Session**:
-- 
+- None
 
 **Causes of idle time while coding**:
-- 
+- None
 
 **Observations on using Copilot or other GenAI**:
-- 
+- pretty consistent with the usage
 
 **Duration:** 
 
 **During the session:** 
 
 **3-5 Copilot recommendations you gave during the session**
+- Custom prompts
+- Custom chatmodes
+- Prompt engineering tips
+- code review
 - 
 
 **Which IDEs are being used:** VS Code, Eclipse
 
-- [ ] Ready to start working on the task at the start of the session?
-- [ ] Engineer is sharing the screen (ensure it)
-- [ ] Local Setup match the Setup for the Task
+- [x] Ready to start working on the task at the start of the session?
+- [x] Engineer is sharing the screen (ensure it)
+- [x] Local Setup match the Setup for the Task
 - [ ] Breaks (>5 min); Why?
-- [ ] Was the task being worked on in JIRA and assigned for this Sprint?
-- [ ] Was the Engineer able to complete the task they were working on?
-- [ ] Did they complete the task they were working on sooner than expected?
+- [x] Was the task being worked on in JIRA and assigned for this Sprint?
+- [x] Was the Engineer able to complete the task they were working on?
+- [x] Did they complete the task they were working on sooner than expected?
 
 **Follow Up**
-
+- Code review on VS Code
 
 ## Session 1
 

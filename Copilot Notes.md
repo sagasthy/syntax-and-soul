@@ -126,13 +126,16 @@ https://docs.github.com/en/copilot/reference/keyboard-shortcuts
 - The custom chat mode will show up as drop down below Ask, Agent & Edit modes.
 - *Eg.*
 	- Tech Debt Remediation Plan - https://github.com/github/awesome-copilot/blob/main/chatmodes/tech-debt-remediation-plan.chatmode.md
-	- 
+
 ---
 ## Custom Prompts
 > only available in Jetbrains & VS Code
 
 - .github/prompts/<PROMPT_NAME>.prompt.md
 - Can be used by using */* in the chat window.
+---
+## Custom Prompts vs Instructions vs Chatmodes
+> TBA
 ---
 ## Copilot Use Cases
 - Fix bugs

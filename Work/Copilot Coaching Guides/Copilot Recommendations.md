@@ -17,12 +17,8 @@
 ## Context
 
 - @workspace (VS Code)
-
 - @project (IntelliJ)
-
 - @solution (Visual Studio)
-
-  
 
 ## Custom Instructions
 
