@@ -12,7 +12,8 @@
 **App Being Worked On:** IC Transform, Taxonomy SEC filing 
 
 **Current Task they work on:** 
-- 
+- Research powerpoint plugin to use in Java
+- .NET legacy to Java migration
 
 **Focus Step in SDLC**: Development
 
