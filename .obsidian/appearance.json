@@ -3,5 +3,8 @@
   "accentColor": "#5ba6b9",
   "textFontFamily": "Arial",
   "monospaceFontFamily": "Arial",
-  "translucency": true
+  "translucency": true,
+  "enabledCssSnippets": [
+    "custom-font"
+  ]
 }

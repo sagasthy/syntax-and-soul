@@ -124,6 +124,9 @@ https://docs.github.com/en/copilot/reference/keyboard-shortcuts
 - *Specialized Tasks* like planning, code reviews, document generation.
 - .github/chatmodes/<CHATMODE_NAME>.chatmode.md
 - The custom chat mode will show up as drop down below Ask, Agent & Edit modes.
+- *Eg.*
+	- Tech Debt Remediation Plan - https://github.com/github/awesome-copilot/blob/main/chatmodes/tech-debt-remediation-plan.chatmode.md
+	- 
 ---
 ## Custom Prompts
 > only available in Jetbrains & VS Code

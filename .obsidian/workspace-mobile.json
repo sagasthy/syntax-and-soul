@@ -142,6 +142,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -153,10 +154,11 @@
   },
   "active": "ea1908b2e218b890",
   "lastOpenFiles": [
+    "Notes.base",
+    "Work/Copilot Coaching Guides/Broadridge AI Coaching.md",
+    "Copilot Notes.md",
     "Personal/Tech Handbook/Notepad++ Tips.md",
     "Personal/Tech Handbook/Linux.md",
-    "Copilot Notes.md",
-    "Work/Copilot Coaching Guides/Broadridge AI Coaching.md",
     "Personal/System Design/General Metrics To Know.md",
     "Personal/Interview Prep/Concepts.md"
   ]

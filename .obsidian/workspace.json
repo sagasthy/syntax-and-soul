@@ -11,13 +11,14 @@
             "id": "f6a5ff7e07680ecd",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Notes.base",
-                "viewName": "Table"
+                "file": "Copilot Notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Notes"
+              "icon": "lucide-file",
+              "title": "Copilot Notes"
             }
           }
         ]
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes.base",
+                "file": "Copilot Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Notes"
+              "title": "Backlinks for Copilot Notes"
             }
           },
           {
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes.base",
+                "file": "Copilot Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Notes"
+              "title": "Outgoing links from Copilot Notes"
             }
           },
           {
@@ -141,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes.base",
+                "file": "Copilot Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Notes"
+              "title": "Outline of Copilot Notes"
             }
           }
         ]
@@ -171,8 +172,8 @@
   },
   "active": "f6a5ff7e07680ecd",
   "lastOpenFiles": [
-    "Copilot Notes.md",
     "Notes.base",
+    "Copilot Notes.md",
     "Untitled.md",
     "Work/Copilot Coaching Guides/Copilot Snippets.md",
     "Obsidian PAT.md"
