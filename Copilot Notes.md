@@ -100,9 +100,9 @@ https://docs.github.com/en/copilot/reference/keyboard-shortcuts
 ---
 ## Custom Instructions
 - Repository
-	- .github/copilot-instructions.md
-	- .github/instructions/NAME.instructions.md
-	- AGENTS.md
+	- .github/copilot-instructions.md - *for global instructions*
+	- .github/instructions/NAME.instructions.md - *for scoped instructions eg. frontend, backend*
+	- AGENTS.md - *maintaining readable log of custom chatmodes*
 - Organization (not available outside Enterprise plan)
 - Personal (not available outside GitHub)
   *Examples*
@@ -135,7 +135,12 @@ https://docs.github.com/en/copilot/reference/keyboard-shortcuts
 - Can be used by using */* in the chat window.
 ---
 ## Custom Prompts vs Instructions vs Chatmodes
-> TBA
+| Feature                 | Purpose                                                       | Best Used For                                                                                                                                                | Example Use Case                                                                                         | Location / Usage                                                           |
+| ----------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| **Custom Prompts**      | Reusable task-specific templates                              | - When you want to reuse a specific instruction set across your repo<br>- Automating frequent dev tasks with consistent structure                            | - Generate a unit test for this function<br>- Scaffold a new microservice with logging and health checks | `.github/prompts/*.prompt.md` — invoked via Copilot Chat using `/`         |
+| **Custom Instructions** | Define coding style, preferences, and project conventions     | Enforcing consistent code practices across a team or repo                                                                                                    | Use async/await, TypeScript, and JSDoc comments for all functions                                        | `.github/copilot-instructions.md` — applied automatically                  |
+| **Custom Chat Modes**   | Create specialized AI assistants with tailored behavior/tools | - When you want a full-on assistant persona tailored to a specific role or task domain.<br>- Domain-specific workflows like DevOps, QA, or documentation<br> | A “DevOps Assistant” that understands Helm charts, Terraform, and GitHub Actions syntax                  | `.github/chatmodes/*.chatmode.md` — selected in Copilot Chat mode dropdown |
+
 ---
 ## Copilot Use Cases
 - Fix bugs
